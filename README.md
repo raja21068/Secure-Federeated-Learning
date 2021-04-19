@@ -18,6 +18,7 @@ Reddit Comments dataset is available at https://www.kaggle.com/reddit/reddit-com
 ## Requirements
 Python 3.6  
 PyTorch 0.4.1 
+torch==0.4.1
 
 
 
